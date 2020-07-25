@@ -22,7 +22,7 @@ Add in composer.json edit repositories array
 ],
 ```
 
-Either run
+Then run
 ```sh
 $ php composer.phar require --prefer-dist loveorigami/yii2-modal-ajax "@dev"
 ```
