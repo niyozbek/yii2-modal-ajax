@@ -8,6 +8,7 @@ A wrapper around Yii2 Bootstrap Modal for using an ActiveForm via AJAX inside.
 ## Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 Add in composer.json edit repositories array 
+```
 "repositories": [
     {
         "type": "composer",
@@ -19,6 +20,7 @@ Add in composer.json edit repositories array
         "url": "https://github.com/niyozbek/yii2-modal-ajax"
     }
 ],
+```
 
 Either run
 ```sh
