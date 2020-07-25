@@ -2,13 +2,13 @@
 .header-success .modal-header {
     font-weight: bold;
     color: #fff;
-    background-color: #5cb85c;
+    background-color: #218838;
 }
 
 .header-warning .modal-header {
     font-weight: bold;
-    color: #fff;
-    background-color: #f0ad4e;
+    color: #1f2d3d;
+    background-color: #d39e00;
 }
 
 .header-danger .modal-header {
@@ -20,13 +20,13 @@
 .header-info .modal-header {
     font-weight: bold;
     color: #fff;
-    background-color: #5bc0de;
+    background-color: #17a2b8;
 }
 
 .header-primary .modal-header {
     font-weight: bold;
     color: #fff;
-    background-color: #428bca;
+    background-color: #0062cc;
 }
 
 .modal-ajax-loader {
