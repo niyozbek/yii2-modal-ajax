@@ -1,4 +1,4 @@
-# Yii2-modal-ajax
+# Yii2-modal-ajax (Bootstrap V4 supported)
 [![Latest Stable Version](https://poser.pugx.org/loveorigami/yii2-modal-ajax/v/stable)](https://packagist.org/packages/loveorigami/yii2-modal-ajax) 
 [![Total Downloads](https://poser.pugx.org/loveorigami/yii2-modal-ajax/downloads)](https://packagist.org/packages/loveorigami/yii2-modal-ajax)
 [![License](https://poser.pugx.org/loveorigami/yii2-modal-ajax/license)](https://packagist.org/packages/loveorigami/yii2-modal-ajax)
@@ -14,7 +14,7 @@ $ php composer.phar require --prefer-dist loveorigami/yii2-modal-ajax "@dev"
 ```
 or add
 ```
-"loveorigami/yii2-modal-ajax": "@dev"
+"niyozbek/yii2-modal-ajax": "@dev"
 ```
 to the require section of your composer.json file.
 
