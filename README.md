@@ -7,14 +7,26 @@ A wrapper around Yii2 Bootstrap Modal for using an ActiveForm via AJAX inside.
 
 ## Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
+Add in composer.json edit repositories array 
+"repositories": [
+    {
+        "type": "composer",
+        "url": "https://asset-packagist.org"
+    },
+    //for downloading my fork add array below
+    {
+        "type": "vcs",
+        "url": "https://github.com/niyozbek/yii2-modal-ajax"
+    }
+],
 
 Either run
 ```sh
-$ php composer.phar require --prefer-dist niyozbek/yii2-modal-ajax "@dev"
+$ php composer.phar require --prefer-dist loveorigami/yii2-modal-ajax "@dev"
 ```
 or add
 ```
-"niyozbek/yii2-modal-ajax": "@dev"
+"loveorigami/yii2-modal-ajax": "@dev"
 ```
 to the require section of your composer.json file.
 
