@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 
 Either run
 ```sh
-$ php composer.phar require --prefer-dist loveorigami/yii2-modal-ajax "@dev"
+$ php composer.phar require --prefer-dist niyozbek/yii2-modal-ajax "@dev"
 ```
 or add
 ```
